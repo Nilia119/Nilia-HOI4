@@ -10,7 +10,7 @@ leader_attack_skills = {
 	}
 
 	2 = {
-		cost = 150
+		cost = 200
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.07
@@ -18,7 +18,7 @@ leader_attack_skills = {
 	}
 
 	3 = {
-		cost = 300
+		cost = 400
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.1
@@ -26,7 +26,7 @@ leader_attack_skills = {
 	}
 
 	4 = {
-		cost = 600
+		cost = 800
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.12
@@ -34,7 +34,7 @@ leader_attack_skills = {
 	}
 
 	5 = {
-		cost = 1000
+		cost = 1600
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.15
@@ -42,7 +42,7 @@ leader_attack_skills = {
 	}
 
 	6 = {
-		cost = 1800
+		cost = 1700
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.17
@@ -50,7 +50,7 @@ leader_attack_skills = {
 	}
 
 	7 = {
-		cost = 3500
+		cost = 2000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.20
@@ -58,7 +58,7 @@ leader_attack_skills = {
 	}
 
 	8 = {
-		cost = 5000
+		cost = 2500
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.25
@@ -66,7 +66,7 @@ leader_attack_skills = {
 	}
 
 	9 = {
-		cost = 6000
+		cost = 3000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.30
@@ -74,7 +74,7 @@ leader_attack_skills = {
 	}
 
 	10 = {
-		cost = 7000
+		cost = 4000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.35
@@ -82,7 +82,7 @@ leader_attack_skills = {
 	}
 
 	11 = {
-		cost = 8000
+		cost = 5000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.40
@@ -90,7 +90,7 @@ leader_attack_skills = {
 	}
 
 	12 = {
-		cost = 9000
+		cost = 6000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.45
@@ -98,7 +98,7 @@ leader_attack_skills = {
 	}
 
 	13 = {
-		cost = 10000
+		cost = 7000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.5
@@ -106,7 +106,7 @@ leader_attack_skills = {
 	}
 
 	14 = {
-		cost = 11000
+		cost = 8000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.52
@@ -114,7 +114,7 @@ leader_attack_skills = {
 	}
 
 	15 = {
-		cost = 12000
+		cost = 9000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.54
@@ -122,7 +122,7 @@ leader_attack_skills = {
 	}
 
 	16 = {
-		cost = 13000
+		cost = 10000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.56
@@ -130,7 +130,7 @@ leader_attack_skills = {
 	}
 
 	17 = {
-		cost = 14000
+		cost = 11000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.58
@@ -138,7 +138,7 @@ leader_attack_skills = {
 	}
 
 	18 = {
-		cost = 15000
+		cost = 12000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.60
@@ -146,7 +146,7 @@ leader_attack_skills = {
 	}
 
 	19 = {
-		cost = 16000
+		cost = 13000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.615
@@ -154,7 +154,7 @@ leader_attack_skills = {
 	}
 
 	20 = {
-		cost = 17000
+		cost = 14000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.63
@@ -162,7 +162,7 @@ leader_attack_skills = {
 	}
 
 	21 = {
-		cost = 18000
+		cost = 15000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.645
@@ -170,7 +170,7 @@ leader_attack_skills = {
 	}
 
 	22 = {
-		cost = 19000
+		cost = 16000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.66
@@ -178,7 +178,7 @@ leader_attack_skills = {
 	}
 
 	23 = {
-		cost = 20000
+		cost = 17000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.675
@@ -186,7 +186,7 @@ leader_attack_skills = {
 	}
 
 	24 = {
-		cost = 21000
+		cost = 18000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.69
@@ -194,7 +194,7 @@ leader_attack_skills = {
 	}
 
 	25 = {
-		cost = 22000
+		cost = 19000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.715
@@ -202,10 +202,42 @@ leader_attack_skills = {
 	}
 
 	26 = {
-		cost = 23000
+		cost = 25000
 		type = navy
 		modifier = {
 		naval_damage_factor = 0.73
+		}
+	}
+	
+	27 = {
+		cost = 30000
+		type = navy
+		modifier = {
+		naval_damage_factor = 0.745
+		}
+	}
+
+	28 = {
+		cost = 35000
+		type = navy
+		modifier = {
+		naval_damage_factor = 0.76
+		}
+	}
+	
+	29 = {
+		cost = 40000
+		type = navy
+		modifier = {
+		naval_damage_factor = 0.775
+		}
+	}
+	
+	30 = {
+		cost = 50000
+		type = navy
+		modifier = {
+		naval_damage_factor = 0.79
 		}
 	}
 
@@ -219,7 +251,7 @@ leader_attack_skills = {
 	}
 		
 	2 = {
-		cost = 150
+		cost = 200
 		type = corps_commander
 		modifier = {
 			offence = 0.05
@@ -227,7 +259,7 @@ leader_attack_skills = {
 	}
 	
 	3 = {
-		cost = 300
+		cost = 400
 		type = corps_commander
 		modifier = {
 			offence = 0.1
@@ -235,7 +267,7 @@ leader_attack_skills = {
 	}
 	
 	4 = {
-		cost = 500
+		cost = 800
 		type = corps_commander
 		modifier = {
 			offence = 0.125
@@ -243,7 +275,7 @@ leader_attack_skills = {
 	}
 	
 	5 = {
-		cost = 800
+		cost = 1600
 		type = corps_commander
 		modifier = {
 			offence = 0.15
@@ -251,7 +283,7 @@ leader_attack_skills = {
 	}
 
 	6 = {
-		cost = 1500
+		cost = 1700
 		type = corps_commander
 		modifier = {
 			offence = 0.175
@@ -259,7 +291,7 @@ leader_attack_skills = {
 	}
 
 	7 = {
-		cost = 3000
+		cost = 2000
 		type = corps_commander
 		modifier = {
 			offence = 0.2
@@ -267,7 +299,7 @@ leader_attack_skills = {
 	}
 
 	8 = {
-		cost = 5000
+		cost = 2500
 		type = corps_commander
 		modifier = {
 			offence = 0.225
@@ -275,7 +307,7 @@ leader_attack_skills = {
 	}
 
 	9 = {
-		cost = 6000
+		cost = 3000
 		type = corps_commander
 		modifier = {
 			offence = 0.25
@@ -283,7 +315,7 @@ leader_attack_skills = {
 	}
 
 	10 = {
-		cost = 7000
+		cost = 4000
 		type = corps_commander
 		modifier = {
 			offence = 0.275
@@ -291,7 +323,7 @@ leader_attack_skills = {
 	}
 
 	11 = {
-		cost = 8000
+		cost = 5000
 		type = corps_commander
 		modifier = {
 			offence = 0.3
@@ -299,7 +331,7 @@ leader_attack_skills = {
 	}
 	
 	12 = {
-		cost = 9000
+		cost = 6000
 		type = corps_commander
 		modifier = {
 			offence = 0.325
@@ -307,7 +339,7 @@ leader_attack_skills = {
 	}
 
 	13 = {
-		cost = 10000
+		cost = 7000
 		type = corps_commander
 		modifier = {
 			offence = 0.35
@@ -315,7 +347,7 @@ leader_attack_skills = {
 	}
 	
 	14 = {
-		cost = 11000
+		cost = 8000
 		type = corps_commander
 		modifier = {
 			offence = 0.375
@@ -323,7 +355,7 @@ leader_attack_skills = {
 	}
 	
 	15 = {
-		cost = 12000
+		cost = 9000
 		type = corps_commander
 		modifier = {
 			offence = 0.4
@@ -331,7 +363,7 @@ leader_attack_skills = {
 	}
 	
 	16 = {
-		cost = 13000
+		cost = 10000
 		type = corps_commander
 		modifier = {
 			offence = 0.41
@@ -339,7 +371,7 @@ leader_attack_skills = {
 	}
 	
 	17 = {
-		cost = 14000
+		cost = 11000
 		type = corps_commander
 		modifier = {
 			offence = 0.42
@@ -347,7 +379,7 @@ leader_attack_skills = {
 	}
 	
 	18 = {
-		cost = 15000
+		cost = 12000
 		type = corps_commander
 		modifier = {
 			offence = 0.43
@@ -355,7 +387,7 @@ leader_attack_skills = {
 	}
 	
 	19 = {
-		cost = 16000
+		cost = 13000
 		type = corps_commander
 		modifier = {
 			offence = 0.44
@@ -363,7 +395,7 @@ leader_attack_skills = {
 	}
 	
 	20 = {
-		cost = 17000
+		cost = 14000
 		type = corps_commander
 		modifier = {
 			offence = 0.45
@@ -371,7 +403,7 @@ leader_attack_skills = {
 	}
 	
 	21 = {
-		cost = 18000
+		cost = 15000
 		type = corps_commander
 		modifier = {
 			offence = 0.46
@@ -379,7 +411,7 @@ leader_attack_skills = {
 	}
 	
 	22 = {
-		cost = 19000
+		cost = 16000
 		type = corps_commander
 		modifier = {
 			offence = 0.47
@@ -387,7 +419,7 @@ leader_attack_skills = {
 	}
 	
 	23 = {
-		cost = 20000
+		cost = 17000
 		type = corps_commander
 		modifier = {
 			offence = 0.48
@@ -395,7 +427,7 @@ leader_attack_skills = {
 	}
 	
 	24 = {
-		cost = 21000
+		cost = 18000
 		type = corps_commander
 		modifier = {
 			offence = 0.49
@@ -403,10 +435,49 @@ leader_attack_skills = {
 	}
 	
 	25 = {
-		cost = 22000
+		cost = 19000
+		type = corps_commander
+		modifier = {
+			offence = 0.50
+		}
+	}	
+	26 = {
+		cost = 25000
+		type = corps_commander
+		modifier = {
+			offence = 0.51
+		}
+	}
+		
+	27 = {
+		cost = 30000
+		type = corps_commander
+		modifier = {
+			offence = 0.52
+		}
+	}
+		
+	28 = {
+		cost = 35000
+		type = corps_commander
+		modifier = {
+			offence = 0.53
+		}
+	}
+		
+	29 = {
+		cost = 40000
 		type = corps_commander
 		modifier = {
 			offence = 0.55
+		}
+	}
+		
+	30 = {
+		cost = 50000
+		type = corps_commander
+		modifier = {
+			offence = 0.70
 		}
 	}
 	
@@ -422,7 +493,7 @@ leader_attack_skills = {
 	}
 		
 	2 = {
-		cost = 150
+		cost = 200
 		type = field_marshal
 		modifier = {
 			offence = 0.05
@@ -430,7 +501,7 @@ leader_attack_skills = {
 	}
 	
 	3 = {
-		cost = 300
+		cost = 400
 		type = field_marshal
 		modifier = {
 			offence = 0.1
@@ -438,7 +509,7 @@ leader_attack_skills = {
 	}
 	
 	4 = {
-		cost = 500
+		cost = 800
 		type = field_marshal
 		modifier = {
 			offence = 0.125
@@ -446,7 +517,7 @@ leader_attack_skills = {
 	}
 	
 	5 = {
-		cost = 800
+		cost = 1600
 		type = field_marshal
 		modifier = {
 			offence = 0.15
@@ -454,7 +525,7 @@ leader_attack_skills = {
 	}
 
 	6 = {
-		cost = 1500
+		cost = 1700
 		type = field_marshal
 		modifier = {
 			offence = 0.175
@@ -462,7 +533,7 @@ leader_attack_skills = {
 	}
 
 	7 = {
-		cost = 3000
+		cost = 2000
 		type = field_marshal
 		modifier = {
 			offence = 0.2
@@ -470,7 +541,7 @@ leader_attack_skills = {
 	}
 
 	8 = {
-		cost = 5000
+		cost = 2500
 		type = field_marshal
 		modifier = {
 			offence = 0.225
@@ -478,7 +549,7 @@ leader_attack_skills = {
 	}
 
 	9 = {
-		cost = 6000
+		cost = 3000
 		type = field_marshal
 		modifier = {
 			offence = 0.25
@@ -486,7 +557,7 @@ leader_attack_skills = {
 	}
 
 	10 = {
-		cost = 7000
+		cost = 4000
 		type = field_marshal
 		modifier = {
 			offence = 0.275
@@ -494,7 +565,7 @@ leader_attack_skills = {
 	}
 
 	11 = {
-		cost = 8000
+		cost = 5000
 		type = field_marshal
 		modifier = {
 			offence = 0.3
@@ -502,7 +573,7 @@ leader_attack_skills = {
 	}
 	
 	12 = {
-		cost = 9000
+		cost = 6000
 		type = field_marshal
 		modifier = {
 			offence = 0.325
@@ -510,7 +581,7 @@ leader_attack_skills = {
 	}
 
 	13 = {
-		cost = 10000
+		cost = 7000
 		type = field_marshal
 		modifier = {
 			offence = 0.35
@@ -518,7 +589,7 @@ leader_attack_skills = {
 	}
 	
 	14 = {
-		cost = 11000
+		cost = 8000
 		type = field_marshal
 		modifier = {
 			offence = 0.375
@@ -526,7 +597,7 @@ leader_attack_skills = {
 	}
 	
 	15 = {
-		cost = 12000
+		cost = 9000
 		type = field_marshal
 		modifier = {
 			offence = 0.4
@@ -534,7 +605,7 @@ leader_attack_skills = {
 	}
 	
 	16 = {
-		cost = 13000
+		cost = 10000
 		type = field_marshal
 		modifier = {
 			offence = 0.41
@@ -542,7 +613,7 @@ leader_attack_skills = {
 	}
 	
 	17 = {
-		cost = 14000
+		cost = 11000
 		type = field_marshal
 		modifier = {
 			offence = 0.42
@@ -550,7 +621,7 @@ leader_attack_skills = {
 	}
 	
 	18 = {
-		cost = 15000
+		cost = 12000
 		type = field_marshal
 		modifier = {
 			offence = 0.43
@@ -558,7 +629,7 @@ leader_attack_skills = {
 	}
 	
 	19 = {
-		cost = 16000
+		cost = 13000
 		type = field_marshal
 		modifier = {
 			offence = 0.44
@@ -566,7 +637,7 @@ leader_attack_skills = {
 	}
 	
 	20 = {
-		cost = 17000
+		cost = 14000
 		type = field_marshal
 		modifier = {
 			offence = 0.45
@@ -574,7 +645,7 @@ leader_attack_skills = {
 	}
 	
 	21 = {
-		cost = 18000
+		cost = 15000
 		type = field_marshal
 		modifier = {
 			offence = 0.46
@@ -582,7 +653,7 @@ leader_attack_skills = {
 	}
 	
 	22 = {
-		cost = 19000
+		cost = 16000
 		type = field_marshal
 		modifier = {
 			offence = 0.47
@@ -590,7 +661,7 @@ leader_attack_skills = {
 	}
 	
 	23 = {
-		cost = 20000
+		cost = 17000
 		type = field_marshal
 		modifier = {
 			offence = 0.48
@@ -598,7 +669,7 @@ leader_attack_skills = {
 	}
 	
 	24 = {
-		cost = 21000
+		cost = 18000
 		type = field_marshal
 		modifier = {
 			offence = 0.49
@@ -606,10 +677,50 @@ leader_attack_skills = {
 	}
 	
 	25 = {
-		cost = 22000
+		cost = 19000
+		type = field_marshal
+		modifier = {
+			offence = 0.50
+		}
+	}
+	
+	26 = {
+		cost = 25000
+		type = field_marshal
+		modifier = {
+			offence = 0.525
+		}
+	}
+	
+	27 = {
+		cost = 30000
 		type = field_marshal
 		modifier = {
 			offence = 0.55
+		}
+	}	
+	
+	28 = {
+		cost = 35000
+		type = field_marshal
+		modifier = {
+			offence = 0.60
+		}
+	}
+	
+	29 = {
+		cost = 40000
+		type = field_marshal
+		modifier = {
+			offence = 0.65
+		}
+	}
+	
+	30 = {
+		cost = 50000
+		type = field_marshal
+		modifier = {
+			offence = 0.70
 		}
 	}
 }

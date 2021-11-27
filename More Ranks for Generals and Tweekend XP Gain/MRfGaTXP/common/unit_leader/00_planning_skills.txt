@@ -11,7 +11,7 @@ leader_planning_skills = {
 	}
 
 	2 = {
-		cost = 150
+		cost = 200
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.1
@@ -20,7 +20,7 @@ leader_planning_skills = {
 	}
 
 	3 = {
-		cost = 300
+		cost = 400
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.15
@@ -29,7 +29,7 @@ leader_planning_skills = {
 	}
 
 	4 = {
-		cost = 600
+		cost = 800
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.2
@@ -38,7 +38,7 @@ leader_planning_skills = {
 	}
 
 	5 = {
-		cost = 1000
+		cost = 1600
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.25
@@ -47,7 +47,7 @@ leader_planning_skills = {
 	}
 
 	6 = {
-		cost = 1800
+		cost = 1700
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.3
@@ -56,7 +56,7 @@ leader_planning_skills = {
 	}
 
 	7 = {
-		cost = 3500
+		cost = 2000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.35
@@ -65,7 +65,7 @@ leader_planning_skills = {
 	}
 
 	8 = {
-		cost = 5000
+		cost = 2500
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.40
@@ -74,7 +74,7 @@ leader_planning_skills = {
 	}
 
 	9 = {
-		cost = 6000
+		cost = 3000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.45
@@ -83,7 +83,7 @@ leader_planning_skills = {
 	}
 
 	10 = {
-		cost = 7000
+		cost = 4000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.50
@@ -92,7 +92,7 @@ leader_planning_skills = {
 	}
 
 	11 = {
-		cost = 8000
+		cost = 5000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.55
@@ -101,7 +101,7 @@ leader_planning_skills = {
 	}
 
 	12 = {
-		cost = 9000
+		cost = 6000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.6
@@ -110,7 +110,7 @@ leader_planning_skills = {
 	}
 
 	13 = {
-		cost = 10000
+		cost = 7000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.65
@@ -119,7 +119,7 @@ leader_planning_skills = {
 	}
 
 	14 = {
-		cost = 11000
+		cost = 8000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.7
@@ -128,7 +128,7 @@ leader_planning_skills = {
 	}
 
 	15 = {
-		cost = 12000
+		cost = 9000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.75
@@ -137,7 +137,7 @@ leader_planning_skills = {
 	}
 
 	16 = {
-		cost = 13000
+		cost = 10000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.8
@@ -146,7 +146,7 @@ leader_planning_skills = {
 	}
 
 	17 = {
-		cost = 14000
+		cost = 11000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.85
@@ -155,7 +155,7 @@ leader_planning_skills = {
 	}
 
 	18 = {
-		cost = 15000
+		cost = 12000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.86
@@ -164,7 +164,7 @@ leader_planning_skills = {
 	}
 
 	19 = {
-		cost = 16000
+		cost = 13000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.87
@@ -173,7 +173,7 @@ leader_planning_skills = {
 	}
 
 	20 = {
-		cost = 17000
+		cost = 14000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.88
@@ -182,7 +182,7 @@ leader_planning_skills = {
 	}
 
 	21 = {
-		cost = 18000
+		cost = 15000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.89
@@ -191,7 +191,7 @@ leader_planning_skills = {
 	}
 
 	22 = {
-		cost = 19000
+		cost = 16000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.90
@@ -200,7 +200,7 @@ leader_planning_skills = {
 	}
 
 	23 = {
-		cost = 20000
+		cost = 17000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.90
@@ -209,7 +209,7 @@ leader_planning_skills = {
 	}
 
 	24 = {
-		cost = 21000
+		cost = 18000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.90
@@ -218,7 +218,7 @@ leader_planning_skills = {
 	}
 
 	25 = {
-		cost = 22000
+		cost = 19000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.90
@@ -227,13 +227,53 @@ leader_planning_skills = {
 	}
 
 	26 = {
-		cost = 23000
+		cost = 25000
 		type = navy
 		modifier = {
 			naval_hit_chance = 0.90
 			naval_coordination = 0.52
 		}
 	}
+
+	27 = {
+		cost = 30000
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.90
+			naval_coordination = 0.54
+		}
+	}
+
+
+	28 = {
+		cost = 35000
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.90
+			naval_coordination = 0.56
+		}
+	}
+
+
+	29 = {
+		cost = 40000
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.90
+			naval_coordination = 0.58
+		}
+	}
+
+
+	30 = {
+		cost = 50000
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.90
+			naval_coordination = 0.60
+		}
+	}
+
 
 	### Corps Commander ###
 	
@@ -247,7 +287,7 @@ leader_planning_skills = {
 	}
 		
 	2 = {
-		cost = 150
+		cost = 200
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.1
@@ -256,7 +296,7 @@ leader_planning_skills = {
 	}
 	
 	3 = {
-		cost = 300
+		cost = 400
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.15
@@ -265,7 +305,7 @@ leader_planning_skills = {
 	}
 	
 	4 = {
-		cost = 500
+		cost = 800
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.2
@@ -274,7 +314,7 @@ leader_planning_skills = {
 	}
 	
 	5 = {
-		cost = 800
+		cost = 1600
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.25
@@ -283,7 +323,7 @@ leader_planning_skills = {
 	}
 
 	6 = {
-		cost = 1500
+		cost = 1700
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.3
@@ -292,7 +332,7 @@ leader_planning_skills = {
 	}
 
 	7 = {
-		cost = 3000
+		cost = 2000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.35
@@ -301,7 +341,7 @@ leader_planning_skills = {
 	}
 
 	8 = {
-		cost = 5000
+		cost = 2500
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.4
@@ -310,7 +350,7 @@ leader_planning_skills = {
 	}
 
 	9 = {
-		cost = 6000
+		cost = 3000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.45
@@ -319,7 +359,7 @@ leader_planning_skills = {
 	}
 
 	10 = {
-		cost = 7000
+		cost = 4000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.5
@@ -328,7 +368,7 @@ leader_planning_skills = {
 	}
 
 	11 = {
-		cost = 8000
+		cost = 5000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.51
@@ -337,7 +377,7 @@ leader_planning_skills = {
 	}
 	
 	12 = {
-		cost = 9000
+		cost = 6000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.52
@@ -346,7 +386,7 @@ leader_planning_skills = {
 	}
 
 	13 = {
-		cost = 10000
+		cost = 7000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.53
@@ -355,7 +395,7 @@ leader_planning_skills = {
 	}
 	
 	14 = {
-		cost = 11000
+		cost = 8000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.54
@@ -364,7 +404,7 @@ leader_planning_skills = {
 	}
 	
 	15 = {
-		cost = 12000
+		cost = 9000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.55
@@ -373,7 +413,7 @@ leader_planning_skills = {
 	}
 	
 	16 = {
-		cost = 13000
+		cost = 10000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.56
@@ -382,7 +422,7 @@ leader_planning_skills = {
 	}
 	
 	17 = {
-		cost = 14000
+		cost = 11000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.57
@@ -391,7 +431,7 @@ leader_planning_skills = {
 	}
 	
 	18 = {
-		cost = 15000
+		cost = 12000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.58
@@ -400,7 +440,7 @@ leader_planning_skills = {
 	}
 	
 	19 = {
-		cost = 16000
+		cost = 13000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.59
@@ -409,7 +449,7 @@ leader_planning_skills = {
 	}
 	
 	20 = {
-		cost = 17000
+		cost = 14000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.60
@@ -418,7 +458,7 @@ leader_planning_skills = {
 	}
 	
 	21 = {
-		cost = 18000
+		cost = 15000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.61
@@ -427,7 +467,7 @@ leader_planning_skills = {
 	}
 	
 	22 = {
-		cost = 19000
+		cost = 16000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.65
@@ -436,7 +476,7 @@ leader_planning_skills = {
 	}
 	
 	23 = {
-		cost = 20000
+		cost = 17000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.76
@@ -445,7 +485,7 @@ leader_planning_skills = {
 	}
 	
 	24 = {
-		cost = 21000
+		cost = 18000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.78
@@ -454,11 +494,56 @@ leader_planning_skills = {
 	}
 	
 	25 = {
-		cost = 22000
+		cost = 19000
 		type = corps_commander		
 		modifier = {
 			planning_speed = 0.8
 			max_planning = 0.4
+		}
+	}
+	
+	26 = {
+		cost = 25000
+		type = corps_commander		
+		modifier = {
+			planning_speed = 0.8
+			max_planning = 0.42
+		}
+	}
+	
+	27 = {
+		cost = 30000
+		type = corps_commander		
+		modifier = {
+			planning_speed = 0.8
+			max_planning = 0.44
+		}
+	}
+	
+	28 = {
+		cost = 35000
+		type = corps_commander		
+		modifier = {
+			planning_speed = 0.8
+			max_planning = 0.46
+		}
+	}
+	
+	29 = {
+		cost = 40000
+		type = corps_commander		
+		modifier = {
+			planning_speed = 0.8
+			max_planning = 0.48
+		}
+	}
+	
+	30 = {
+		cost = 50000
+		type = corps_commander		
+		modifier = {
+			planning_speed = 0.9
+			max_planning = 0.5
 		}
 	}
 	
@@ -475,7 +560,7 @@ leader_planning_skills = {
 	}
 		
 	2 = {
-		cost = 150
+		cost = 200
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.1
@@ -484,7 +569,7 @@ leader_planning_skills = {
 	}
 	
 	3 = {
-		cost = 300
+		cost = 400
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.15
@@ -493,7 +578,7 @@ leader_planning_skills = {
 	}
 	
 	4 = {
-		cost = 500
+		cost = 800
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.2
@@ -502,7 +587,7 @@ leader_planning_skills = {
 	}
 	
 	5 = {
-		cost = 800
+		cost = 1600
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.25
@@ -511,7 +596,7 @@ leader_planning_skills = {
 	}
 
 	6 = {
-		cost = 1500
+		cost = 1700
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.3
@@ -520,7 +605,7 @@ leader_planning_skills = {
 	}
 
 	7 = {
-		cost = 3000
+		cost = 2000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.35
@@ -529,7 +614,7 @@ leader_planning_skills = {
 	}
 
 	8 = {
-		cost = 5000
+		cost = 2500
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.4
@@ -538,7 +623,7 @@ leader_planning_skills = {
 	}
 
 	9 = {
-		cost = 6000
+		cost = 3000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.45
@@ -547,7 +632,7 @@ leader_planning_skills = {
 	}
 
 	10 = {
-		cost = 7000
+		cost = 4000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.5
@@ -556,7 +641,7 @@ leader_planning_skills = {
 	}
 
 	11 = {
-		cost = 8000
+		cost = 5000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.51
@@ -565,7 +650,7 @@ leader_planning_skills = {
 	}
 	
 	12 = {
-		cost = 9000
+		cost = 6000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.52
@@ -574,7 +659,7 @@ leader_planning_skills = {
 	}
 
 	13 = {
-		cost = 10000
+		cost = 7000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.53
@@ -583,7 +668,7 @@ leader_planning_skills = {
 	}
 	
 	14 = {
-		cost = 11000
+		cost = 8000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.54
@@ -592,7 +677,7 @@ leader_planning_skills = {
 	}
 	
 	15 = {
-		cost = 12000
+		cost = 9000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.55
@@ -601,7 +686,7 @@ leader_planning_skills = {
 	}
 	
 	16 = {
-		cost = 13000
+		cost = 10000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.56
@@ -610,7 +695,7 @@ leader_planning_skills = {
 	}
 	
 	17 = {
-		cost = 14000
+		cost = 11000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.57
@@ -619,7 +704,7 @@ leader_planning_skills = {
 	}
 	
 	18 = {
-		cost = 15000
+		cost = 12000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.58
@@ -628,7 +713,7 @@ leader_planning_skills = {
 	}
 	
 	19 = {
-		cost = 16000
+		cost = 13000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.59
@@ -637,7 +722,7 @@ leader_planning_skills = {
 	}
 	
 	20 = {
-		cost = 17000
+		cost = 14000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.60
@@ -646,7 +731,7 @@ leader_planning_skills = {
 	}
 	
 	21 = {
-		cost = 18000
+		cost = 15000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.61
@@ -655,7 +740,7 @@ leader_planning_skills = {
 	}
 	
 	22 = {
-		cost = 19000
+		cost = 16000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.65
@@ -664,7 +749,7 @@ leader_planning_skills = {
 	}
 	
 	23 = {
-		cost = 20000
+		cost = 17000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.76
@@ -673,7 +758,7 @@ leader_planning_skills = {
 	}
 	
 	24 = {
-		cost = 21000
+		cost = 18000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.78
@@ -682,11 +767,56 @@ leader_planning_skills = {
 	}
 	
 	25 = {
-		cost = 22000
+		cost = 19000
 		type = field_marshal		
 		modifier = {
 			planning_speed = 0.8
 			max_planning = 0.4
+		}
+	}
+	
+	26 = {
+		cost = 25000
+		type = field_marshal		
+		modifier = {
+			planning_speed = 0.8
+			max_planning = 0.42
+		}
+	}
+	
+	27 = {
+		cost = 30000
+		type = field_marshal		
+		modifier = {
+			planning_speed = 0.8
+			max_planning = 0.44
+		}
+	}
+	
+	28 = {
+		cost = 35000
+		type = field_marshal		
+		modifier = {
+			planning_speed = 0.8
+			max_planning = 0.46
+		}
+	}
+	
+	29 = {
+		cost = 40000
+		type = field_marshal		
+		modifier = {
+			planning_speed = 0.8
+			max_planning = 0.48
+		}
+	}
+	
+	30 = {
+		cost = 50000
+		type = field_marshal		
+		modifier = {
+			planning_speed = 0.9
+			max_planning = 0.5
 		}
 	}
 }

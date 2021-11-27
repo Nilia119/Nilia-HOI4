@@ -1,7 +1,6 @@
 leader_defense_skills = {
 
 	### NAVY ###
-
 	1 = {
 		cost = 100
 		type = navy
@@ -11,79 +10,79 @@ leader_defense_skills = {
 	}
 
 	2 = {
-		cost = 150
+		cost = 200
 		type = navy
 		modifier = {
-		naval_defense_factor = 0.10
+		naval_defense_factor = 0.07
 		}
 	}
 
 	3 = {
-		cost = 300
+		cost = 400
+		type = navy
+		modifier = {
+		naval_defense_factor = 0.1
+		}
+	}
+
+	4 = {
+		cost = 800
+		type = navy
+		modifier = {
+		naval_defense_factor = 0.12
+		}
+	}
+
+	5 = {
+		cost = 1600
 		type = navy
 		modifier = {
 		naval_defense_factor = 0.15
 		}
 	}
 
-	4 = {
-		cost = 600
+	6 = {
+		cost = 1700
+		type = navy
+		modifier = {
+		naval_defense_factor = 0.17
+		}
+	}
+
+	7 = {
+		cost = 2000
 		type = navy
 		modifier = {
 		naval_defense_factor = 0.20
 		}
 	}
 
-	5 = {
-		cost = 1000
+	8 = {
+		cost = 2500
 		type = navy
 		modifier = {
 		naval_defense_factor = 0.25
 		}
 	}
 
-	6 = {
-		cost = 1800
+	9 = {
+		cost = 3000
 		type = navy
 		modifier = {
 		naval_defense_factor = 0.30
 		}
 	}
 
-	7 = {
-		cost = 3500
-		type = navy
-		modifier = {
-		naval_defense_factor = 0.32
-		}
-	}
-
-	8 = {
-		cost = 5000
-		type = navy
-		modifier = {
-		naval_defense_factor = 0.34
-		}
-	}
-
-	9 = {
-		cost = 6000
-		type = navy
-		modifier = {
-		naval_defense_factor = 0.36
-		}
-	}
-
 	10 = {
-		cost = 7000
+		cost = 4000
 		type = navy
 		modifier = {
-		naval_defense_factor = 0.38
+		naval_defense_factor = 0.35
 		}
 	}
 
 	11 = {
-		cost = 8000
+		cost = 5000
 		type = navy
 		modifier = {
 		naval_defense_factor = 0.40
@@ -91,122 +90,154 @@ leader_defense_skills = {
 	}
 
 	12 = {
-		cost = 9000
+		cost = 6000
 		type = navy
 		modifier = {
-		naval_defense_factor = 0.42
+		naval_defense_factor = 0.45
 		}
 	}
 
 	13 = {
-		cost = 10000
+		cost = 7000
 		type = navy
 		modifier = {
-		naval_defense_factor = 0.44
+		naval_defense_factor = 0.5
 		}
 	}
 
 	14 = {
-		cost = 11000
-		type = navy
-		modifier = {
-		naval_defense_factor = 0.46
-		}
-	}
-
-	15 = {
-		cost = 12000
-		type = navy
-		modifier = {
-		naval_defense_factor = 0.48
-		}
-	}
-
-	16 = {
-		cost = 13000
-		type = navy
-		modifier = {
-		naval_defense_factor = 0.50
-		}
-	}
-
-	17 = {
-		cost = 14000
+		cost = 8000
 		type = navy
 		modifier = {
 		naval_defense_factor = 0.52
 		}
 	}
 
-	18 = {
-		cost = 15000
+	15 = {
+		cost = 9000
 		type = navy
 		modifier = {
 		naval_defense_factor = 0.54
 		}
 	}
 
-	19 = {
-		cost = 16000
+	16 = {
+		cost = 10000
 		type = navy
 		modifier = {
 		naval_defense_factor = 0.56
 		}
 	}
 
-	20 = {
-		cost = 17000
+	17 = {
+		cost = 11000
 		type = navy
 		modifier = {
 		naval_defense_factor = 0.58
 		}
 	}
 
-	21 = {
-		cost = 18000
+	18 = {
+		cost = 12000
 		type = navy
 		modifier = {
 		naval_defense_factor = 0.60
 		}
 	}
 
+	19 = {
+		cost = 13000
+		type = navy
+		modifier = {
+		naval_defense_factor = 0.615
+		}
+	}
+
+	20 = {
+		cost = 14000
+		type = navy
+		modifier = {
+		naval_defense_factor = 0.63
+		}
+	}
+
+	21 = {
+		cost = 15000
+		type = navy
+		modifier = {
+		naval_defense_factor = 0.645
+		}
+	}
+
 	22 = {
-		cost = 19000
-		type = navy
-		modifier = {
-		naval_defense_factor = 0.62
-		}
-	}
-
-	23 = {
-		cost = 20000
-		type = navy
-		modifier = {
-		naval_defense_factor = 0.64
-		}
-	}
-
-	24 = {
-		cost = 21000
+		cost = 16000
 		type = navy
 		modifier = {
 		naval_defense_factor = 0.66
 		}
 	}
 
-	25 = {
-		cost = 22000
+	23 = {
+		cost = 17000
 		type = navy
 		modifier = {
-		naval_defense_factor = 0.68
+		naval_defense_factor = 0.675
+		}
+	}
+
+	24 = {
+		cost = 18000
+		type = navy
+		modifier = {
+		naval_defense_factor = 0.69
+		}
+	}
+
+	25 = {
+		cost = 19000
+		type = navy
+		modifier = {
+		naval_defense_factor = 0.715
 		}
 	}
 
 	26 = {
-		cost = 23000
+		cost = 25000
 		type = navy
 		modifier = {
-		naval_defense_factor = 0.75
+		naval_defense_factor = 0.73
+		}
+	}
+	
+	27 = {
+		cost = 30000
+		type = navy
+		modifier = {
+		naval_defense_factor = 0.745
+		}
+	}
+
+	28 = {
+		cost = 35000
+		type = navy
+		modifier = {
+		naval_defense_factor = 0.76
+		}
+	}
+	
+	29 = {
+		cost = 40000
+		type = navy
+		modifier = {
+		naval_defense_factor = 0.775
+		}
+	}
+	
+	30 = {
+		cost = 50000
+		type = navy
+		modifier = {
+		naval_defense_factor = 0.79
 		}
 	}
 
@@ -220,200 +251,239 @@ leader_defense_skills = {
 	}
 		
 	2 = {
-		cost = 150
-		type = corps_commander		
+		cost = 200
+		type = corps_commander
 		modifier = {
 			defence = 0.05
 		}
 	}
 	
 	3 = {
-		cost = 300
-		type = corps_commander		
-		modifier = {
-			defence = 0.075
-		}
-	}
-	
-	4 = {
-		cost = 500
-		type = corps_commander		
+		cost = 400
+		type = corps_commander
 		modifier = {
 			defence = 0.1
 		}
 	}
 	
-	5 = {
+	4 = {
 		cost = 800
-		type = corps_commander		
+		type = corps_commander
 		modifier = {
 			defence = 0.125
 		}
 	}
-
-	6 = {
-		cost = 1500
-		type = corps_commander		
+	
+	5 = {
+		cost = 1600
+		type = corps_commander
 		modifier = {
 			defence = 0.15
 		}
 	}
 
-	7 = {
-		cost = 3000
-		type = corps_commander		
+	6 = {
+		cost = 1700
+		type = corps_commander
 		modifier = {
 			defence = 0.175
 		}
 	}
 
-	8 = {
-		cost = 5000
-		type = corps_commander		
+	7 = {
+		cost = 2000
+		type = corps_commander
 		modifier = {
 			defence = 0.2
 		}
 	}
 
-	9 = {
-		cost = 6000
-		type = corps_commander		
+	8 = {
+		cost = 2500
+		type = corps_commander
 		modifier = {
 			defence = 0.225
 		}
 	}
 
-	10 = {
-		cost = 7000
-		type = corps_commander		
+	9 = {
+		cost = 3000
+		type = corps_commander
 		modifier = {
 			defence = 0.25
 		}
 	}
 
+	10 = {
+		cost = 4000
+		type = corps_commander
+		modifier = {
+			defence = 0.275
+		}
+	}
+
 	11 = {
-		cost = 8000
-		type = corps_commander		
+		cost = 5000
+		type = corps_commander
 		modifier = {
 			defence = 0.3
 		}
 	}
 	
 	12 = {
-		cost = 9000
-		type = corps_commander		
+		cost = 6000
+		type = corps_commander
 		modifier = {
-			defence = 0.31
+			defence = 0.325
 		}
 	}
 
 	13 = {
-		cost = 10000
-		type = corps_commander		
-		modifier = {
-			defence = 0.32
-		}
-	}
-	
-	14 = {
-		cost = 11000
-		type = corps_commander		
-		modifier = {
-			defence = 0.33
-		}
-	}
-	
-	15 = {
-		cost = 12000
-		type = corps_commander		
-		modifier = {
-			defence = 0.34
-		}
-	}
-	
-	16 = {
-		cost = 13000
-		type = corps_commander		
+		cost = 7000
+		type = corps_commander
 		modifier = {
 			defence = 0.35
 		}
 	}
 	
+	14 = {
+		cost = 8000
+		type = corps_commander
+		modifier = {
+			defence = 0.375
+		}
+	}
+	
+	15 = {
+		cost = 9000
+		type = corps_commander
+		modifier = {
+			defence = 0.4
+		}
+	}
+	
+	16 = {
+		cost = 10000
+		type = corps_commander
+		modifier = {
+			defence = 0.41
+		}
+	}
+	
 	17 = {
-		cost = 14000
-		type = corps_commander		
-		modifier = {
-			defence = 0.36
-		}
-	}
-	
-	18 = {
-		cost = 15000
-		type = corps_commander		
-		modifier = {
-			defence = 0.37
-		}
-	}
-	
-	19 = {
-		cost = 16000
-		type = corps_commander		
-		modifier = {
-			defence = 0.38
-		}
-	}
-	
-	20 = {
-		cost = 17000
-		type = corps_commander		
-		modifier = {
-			defence = 0.40
-		}
-	}
-	
-	21 = {
-		cost = 18000
-		type = corps_commander		
+		cost = 11000
+		type = corps_commander
 		modifier = {
 			defence = 0.42
 		}
 	}
 	
-	22 = {
-		cost = 19000
-		type = corps_commander		
+	18 = {
+		cost = 12000
+		type = corps_commander
+		modifier = {
+			defence = 0.43
+		}
+	}
+	
+	19 = {
+		cost = 13000
+		type = corps_commander
 		modifier = {
 			defence = 0.44
 		}
 	}
 	
-	23 = {
-		cost = 20000
-		type = corps_commander		
+	20 = {
+		cost = 14000
+		type = corps_commander
+		modifier = {
+			defence = 0.45
+		}
+	}
+	
+	21 = {
+		cost = 15000
+		type = corps_commander
 		modifier = {
 			defence = 0.46
 		}
 	}
 	
-	24 = {
-		cost = 21000
-		type = corps_commander		
+	22 = {
+		cost = 16000
+		type = corps_commander
+		modifier = {
+			defence = 0.47
+		}
+	}
+	
+	23 = {
+		cost = 17000
+		type = corps_commander
 		modifier = {
 			defence = 0.48
 		}
 	}
 	
+	24 = {
+		cost = 18000
+		type = corps_commander
+		modifier = {
+			defence = 0.49
+		}
+	}
+	
 	25 = {
-		cost = 22000
+		cost = 19000
+		type = corps_commander
+		modifier = {
+			defence = 0.50
+		}
+	}	
+	26 = {
+		cost = 25000
+		type = corps_commander
+		modifier = {
+			defence = 0.51
+		}
+	}
+		
+	27 = {
+		cost = 30000
+		type = corps_commander
+		modifier = {
+			defence = 0.52
+		}
+	}
+		
+	28 = {
+		cost = 35000
+		type = corps_commander
+		modifier = {
+			defence = 0.53
+		}
+	}
+		
+	29 = {
+		cost = 40000
 		type = corps_commander
 		modifier = {
 			defence = 0.55
 		}
 	}
+		
+	30 = {
+		cost = 50000
+		type = corps_commander
+		modifier = {
+			defence = 0.70
+		}
+	}
 	
 	
 	### Field Marshal ###
-	
+
 	1 = {
 		cost = 100
 		type = field_marshal
@@ -423,194 +493,234 @@ leader_defense_skills = {
 	}
 		
 	2 = {
-		cost = 150
-		type = field_marshal		
+		cost = 200
+		type = field_marshal
 		modifier = {
 			defence = 0.05
 		}
 	}
 	
 	3 = {
-		cost = 300
-		type = field_marshal		
-		modifier = {
-			defence = 0.075
-		}
-	}
-	
-	4 = {
-		cost = 500
-		type = field_marshal		
+		cost = 400
+		type = field_marshal
 		modifier = {
 			defence = 0.1
 		}
 	}
 	
-	5 = {
+	4 = {
 		cost = 800
-		type = field_marshal		
+		type = field_marshal
 		modifier = {
 			defence = 0.125
 		}
 	}
-
-	6 = {
-		cost = 1500
-		type = field_marshal		
+	
+	5 = {
+		cost = 1600
+		type = field_marshal
 		modifier = {
 			defence = 0.15
 		}
 	}
 
-	7 = {
-		cost = 3000
-		type = field_marshal		
+	6 = {
+		cost = 1700
+		type = field_marshal
 		modifier = {
 			defence = 0.175
 		}
 	}
 
-	8 = {
-		cost = 5000
-		type = field_marshal		
+	7 = {
+		cost = 2000
+		type = field_marshal
 		modifier = {
 			defence = 0.2
 		}
 	}
 
-	9 = {
-		cost = 6000
-		type = field_marshal		
+	8 = {
+		cost = 2500
+		type = field_marshal
 		modifier = {
 			defence = 0.225
 		}
 	}
 
-	10 = {
-		cost = 7000
-		type = field_marshal		
+	9 = {
+		cost = 3000
+		type = field_marshal
 		modifier = {
 			defence = 0.25
 		}
 	}
 
+	10 = {
+		cost = 4000
+		type = field_marshal
+		modifier = {
+			defence = 0.275
+		}
+	}
+
 	11 = {
-		cost = 8000
-		type = field_marshal		
+		cost = 5000
+		type = field_marshal
 		modifier = {
 			defence = 0.3
 		}
 	}
 	
 	12 = {
-		cost = 9000
-		type = field_marshal		
+		cost = 6000
+		type = field_marshal
 		modifier = {
-			defence = 0.31
+			defence = 0.325
 		}
 	}
 
 	13 = {
-		cost = 10000
-		type = field_marshal		
-		modifier = {
-			defence = 0.32
-		}
-	}
-	
-	14 = {
-		cost = 11000
-		type = field_marshal		
-		modifier = {
-			defence = 0.33
-		}
-	}
-	
-	15 = {
-		cost = 12000
-		type = field_marshal		
-		modifier = {
-			defence = 0.34
-		}
-	}
-	
-	16 = {
-		cost = 13000
-		type = field_marshal		
+		cost = 7000
+		type = field_marshal
 		modifier = {
 			defence = 0.35
 		}
 	}
 	
+	14 = {
+		cost = 8000
+		type = field_marshal
+		modifier = {
+			defence = 0.375
+		}
+	}
+	
+	15 = {
+		cost = 9000
+		type = field_marshal
+		modifier = {
+			defence = 0.4
+		}
+	}
+	
+	16 = {
+		cost = 10000
+		type = field_marshal
+		modifier = {
+			defence = 0.41
+		}
+	}
+	
 	17 = {
-		cost = 14000
-		type = field_marshal		
-		modifier = {
-			defence = 0.36
-		}
-	}
-	
-	18 = {
-		cost = 15000
-		type = field_marshal		
-		modifier = {
-			defence = 0.37
-		}
-	}
-	
-	19 = {
-		cost = 16000
-		type = field_marshal		
-		modifier = {
-			defence = 0.38
-		}
-	}
-	
-	20 = {
-		cost = 17000
-		type = field_marshal		
-		modifier = {
-			defence = 0.40
-		}
-	}
-	
-	21 = {
-		cost = 18000
-		type = field_marshal		
+		cost = 11000
+		type = field_marshal
 		modifier = {
 			defence = 0.42
 		}
 	}
 	
-	22 = {
-		cost = 19000
-		type = field_marshal		
+	18 = {
+		cost = 12000
+		type = field_marshal
+		modifier = {
+			defence = 0.43
+		}
+	}
+	
+	19 = {
+		cost = 13000
+		type = field_marshal
 		modifier = {
 			defence = 0.44
 		}
 	}
 	
-	23 = {
-		cost = 20000
-		type = field_marshal		
+	20 = {
+		cost = 14000
+		type = field_marshal
+		modifier = {
+			defence = 0.45
+		}
+	}
+	
+	21 = {
+		cost = 15000
+		type = field_marshal
 		modifier = {
 			defence = 0.46
 		}
 	}
 	
-	24 = {
-		cost = 21000
-		type = field_marshal		
+	22 = {
+		cost = 16000
+		type = field_marshal
+		modifier = {
+			defence = 0.47
+		}
+	}
+	
+	23 = {
+		cost = 17000
+		type = field_marshal
 		modifier = {
 			defence = 0.48
 		}
 	}
 	
+	24 = {
+		cost = 18000
+		type = field_marshal
+		modifier = {
+			defence = 0.49
+		}
+	}
+	
 	25 = {
-		cost = 22000
+		cost = 19000
+		type = field_marshal
+		modifier = {
+			defence = 0.50
+		}
+	}
+	
+	26 = {
+		cost = 25000
+		type = field_marshal
+		modifier = {
+			defence = 0.525
+		}
+	}
+	
+	27 = {
+		cost = 30000
 		type = field_marshal
 		modifier = {
 			defence = 0.55
+		}
+	}	
+	
+	28 = {
+		cost = 35000
+		type = field_marshal
+		modifier = {
+			defence = 0.60
+		}
+	}
+	
+	29 = {
+		cost = 40000
+		type = field_marshal
+		modifier = {
+			defence = 0.65
+		}
+	}
+	
+	30 = {
+		cost = 50000
+		type = field_marshal
+		modifier = {
+			defence = 0.70
 		}
 	}
 }
