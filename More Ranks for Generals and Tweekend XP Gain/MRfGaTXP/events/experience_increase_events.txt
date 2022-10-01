@@ -41,5 +41,12 @@ country_event = { ####start
 		air_experience = 1000
 		set_global_flag = experience_increase
 	}
+	option = {
+    		name = experience_increase.0.e
+    		army_experience = 100000
+    		navy_experience = 100000
+    		air_experience = 100000
+    		set_global_flag = experience_increase
+    	}
 }
 
