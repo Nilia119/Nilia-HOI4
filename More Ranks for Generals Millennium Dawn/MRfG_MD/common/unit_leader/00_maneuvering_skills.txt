@@ -1,0 +1,273 @@
+leader_maneuvering_skills = {
+
+	### NAVY ###
+	1 = {
+		cost = 100
+		type = navy
+		modifier = {
+		positioning = 0.05
+		naval_retreat_speed = 0.01
+		}
+	}
+
+	2 = {
+		cost = 200
+		type = navy
+		modifier = {
+		positioning = 0.07
+		naval_retreat_speed = 0.03
+		}
+	}
+
+	3 = {
+		cost = 400
+		type = navy
+		modifier = {
+		positioning = 0.1
+		naval_retreat_speed = 0.05
+		}
+	}
+
+	4 = {
+		cost = 800
+		type = navy
+		modifier = {
+		positioning = 0.12
+		naval_retreat_speed = 0.07
+		}
+	}
+
+	5 = {
+		cost = 1600
+		type = navy
+		modifier = {
+		positioning = 0.15
+		naval_retreat_speed = 0.09
+		}
+	}
+
+	6 = {
+		cost = 1700
+		type = navy
+		modifier = {
+		positioning = 0.17
+		naval_retreat_speed = 0.12
+		}
+	}
+
+	7 = {
+		cost = 2000
+		type = navy
+		modifier = {
+		positioning = 0.20
+		naval_retreat_speed = 0.14
+		}
+	}
+
+	8 = {
+		cost = 2500
+		type = navy
+		modifier = {
+		positioning = 0.25
+		naval_retreat_speed = 0.16
+		}
+	}
+
+	9 = {
+		cost = 3000
+		type = navy
+		modifier = {
+		positioning = 0.30
+		naval_retreat_speed = 0.18
+		}
+	}
+
+	10 = {
+		cost = 4000
+		type = navy
+		modifier = {
+		positioning = 0.35
+		naval_retreat_speed = 0.2
+		}
+	}
+
+	11 = {
+		cost = 5000
+		type = navy
+		modifier = {
+		positioning = 0.40
+		naval_retreat_speed = 0.24
+		}
+	}
+
+	12 = {
+		cost = 6000
+		type = navy
+		modifier = {
+		positioning = 0.45
+		naval_retreat_speed = 0.28
+		}
+	}
+
+	13 = {
+		cost = 7000
+		type = navy
+		modifier = {
+		positioning = 0.5
+		naval_retreat_speed = 0.32
+		}
+	}
+
+	14 = {
+		cost = 8000
+		type = navy
+		modifier = {
+		positioning = 0.52
+		naval_retreat_speed = 0.36
+		}
+	}
+
+	15 = {
+		cost = 9000
+		type = navy
+		modifier = {
+		positioning = 0.54
+		naval_retreat_speed = 0.4
+		}
+	}
+
+	16 = {
+		cost = 10000
+		type = navy
+		modifier = {
+		positioning = 0.56
+		naval_retreat_speed = 0.44
+		}
+	}
+
+	17 = {
+		cost = 11000
+		type = navy
+		modifier = {
+		positioning = 0.58
+		naval_retreat_speed = 0.48
+		}
+	}
+
+	18 = {
+		cost = 12000
+		type = navy
+		modifier = {
+		positioning = 0.60
+		naval_retreat_speed = 0.52
+		}
+	}
+
+	19 = {
+		cost = 13000
+		type = navy
+		modifier = {
+		positioning = 0.615
+		naval_retreat_speed = 0.56
+		}
+	}
+
+	20 = {
+		cost = 14000
+		type = navy
+		modifier = {
+		positioning = 0.63
+		naval_retreat_speed = 0.6
+		}
+	}
+
+	21 = {
+		cost = 15000
+		type = navy
+		modifier = {
+		positioning = 0.645
+		naval_retreat_speed = 0.61
+		}
+	}
+
+	22 = {
+		cost = 16000
+		type = navy
+		modifier = {
+		positioning = 0.66
+		naval_retreat_speed = 0.62
+		}
+	}
+
+	23 = {
+		cost = 17000
+		type = navy
+		modifier = {
+		positioning = 0.675
+		naval_retreat_speed = 0.63
+		}
+	}
+
+	24 = {
+		cost = 18000
+		type = navy
+		modifier = {
+		positioning = 0.69
+		naval_retreat_speed = 0.64
+		}
+	}
+
+	25 = {
+		cost = 19000
+		type = navy
+		modifier = {
+		positioning = 0.715
+		naval_retreat_speed = 0.65
+		}
+	}
+
+	26 = {
+		cost = 25000
+		type = navy
+		modifier = {
+		positioning = 0.73
+		naval_retreat_speed = 0.68 
+		}
+	}
+	
+	27 = {
+		cost = 30000
+		type = navy
+		modifier = {
+		positioning = 0.745
+		naval_retreat_speed = 0.71
+		}
+	}
+
+	28 = {
+		cost = 35000
+		type = navy
+		modifier = {
+		positioning = 0.76
+		naval_retreat_speed = 0.74
+		}
+	}
+	
+	29 = {
+		cost = 40000
+		type = navy
+		modifier = {
+		positioning = 0.775
+		naval_retreat_speed = 0.77
+		}
+	}
+	
+	30 = {
+		cost = 50000
+		type = navy
+		modifier = {
+		positioning = 0.79
+		naval_retreat_speed = 0.8
+		}
+	}
+}
