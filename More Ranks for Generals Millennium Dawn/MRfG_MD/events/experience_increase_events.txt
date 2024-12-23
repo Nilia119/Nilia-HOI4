@@ -29,23 +29,16 @@ country_event = { ####start
 	}
 	option = {
 		name = experience_increase.0.c
-		army_experience = 100
-		navy_experience = 100
-		air_experience = 100
+		army_experience = 50
+		navy_experience = 50
+		air_experience = 50
 		set_global_flag = experience_increase
 	}
 	option = {
-		name = experience_increase.0.d
-		army_experience = 1000
-		navy_experience = 1000
-		air_experience = 1000
-		set_global_flag = experience_increase
-	}
-	option = {
-    		name = experience_increase.0.e
-    		army_experience = 100000
-    		navy_experience = 100000
-    		air_experience = 100000
+    		name = experience_increase.0.d
+    		army_experience = 100
+    		navy_experience = 100
+    		air_experience = 100
     		set_global_flag = experience_increase
     	}
 }
