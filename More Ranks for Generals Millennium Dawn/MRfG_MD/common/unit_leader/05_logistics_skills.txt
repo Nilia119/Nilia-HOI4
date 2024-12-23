@@ -1,0 +1,754 @@
+leader_logistics_skills = {
+
+	### NAVY ###
+	1 = {
+   		cost = 100
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.05
+   		naval_coordination = 0.05
+   		}
+   	}
+
+    2 = {
+    	cost = 200
+    	type = navy
+    	modifier = {
+    	naval_hit_chance = 0.075
+    	naval_coordination = 0.075
+    	}
+    }
+
+   	3 = {
+   		cost = 400
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.1
+   		naval_coordination = 0.1
+   		}
+   	}
+
+   	4 = {
+   		cost = 800
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.125
+   		naval_coordination = 0.125
+   		}
+   	}
+
+   	5 = {
+   		cost = 1600
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.15
+   		naval_coordination = 0.15
+   		}
+   	}
+
+   	6 = {
+   		cost = 2560
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.175
+   		naval_coordination = 0.175
+   		}
+   	}
+
+   	7 = {
+   		cost = 3584
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.2
+   		naval_coordination = 0.2
+   		}
+   	}
+
+   	8 = {
+   		cost = 5018
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.225
+   		naval_coordination = 0.225
+   		}
+   	}
+
+   	9 = {
+   		cost = 6524
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.25
+   		naval_coordination = 0.25
+   		}
+   	}
+
+   	10 = {
+   		cost = 8480
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.275
+   		naval_coordination = 0.275
+   		}
+   	}
+
+   	11 = {
+   		cost = 10176
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.3
+   		naval_coordination = 0.3
+   		}
+   	}
+
+   	12 = {
+   		cost = 12210
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.325
+   		naval_coordination = 0.325
+   		}
+   	}
+
+   	13 = {
+   		cost = 14040
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.35
+   		naval_coordination = 0.35
+   		}
+   	}
+
+   	14 = {
+   		cost = 15870
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.375
+   		naval_coordination = 0.375
+   		}
+   	}
+
+   	15 = {
+   		cost = 17770
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.4
+   		naval_coordination = 0.4
+   		}
+   	}
+
+   	16 = {
+   		cost = 19720
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.425
+   		naval_coordination = 0.425
+   		}
+   	}
+
+   	17 = {
+   		cost = 21700
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.45
+   		naval_coordination = 0.45
+   		}
+   	}
+
+   	18 = {
+   		cost = 23650
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.475
+   		naval_coordination = 0.475
+   		}
+   	}
+
+   	19 = {
+   		cost = 25540
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.5
+   		naval_coordination = 0.5
+   		}
+   	}
+
+   	20 = {
+   		cost = 27330
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.525
+   		naval_coordination = 0.525
+   		}
+   	}
+
+   	21 = {
+   		cost = 28970
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.55
+   		naval_coordination = 0.55
+   		}
+   	}
+
+   	22 = {
+   		cost = 30420
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.575
+   		naval_coordination = 0.575
+   		}
+   	}
+
+   	23 = {
+   		cost = 31940
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.6
+   		naval_coordination = 0.6
+   		}
+   	}
+
+   	24 = {
+   		cost = 33540
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.625
+   		naval_coordination = 0.625
+   		}
+   	}
+
+   	25 = {
+   		cost = 36900
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.65
+   		naval_coordination = 0.65
+   		}
+   	}
+
+   	26 = {
+   		cost = 42400
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.682
+   		naval_coordination = 0.682
+   		}
+   	}
+
+   	27 = {
+   		cost = 51000
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.7
+   		naval_coordination = 0.7
+   		}
+   	}
+
+   	28 = {
+   		cost = 61100
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.708
+   		naval_coordination = 0.708
+   		}
+   	}
+
+   	29 = {
+   		cost = 73300
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.712
+   		naval_coordination = 0.712
+   		}
+   	}
+
+   	30 = {
+   		cost = 88000
+   		type = navy
+   		modifier = {
+   		naval_hit_chance = 0.715
+   		naval_coordination = 0.715
+   		}
+   	}
+
+	### Corps Commander ###
+	1 = {
+		cost = 100
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.0125
+		}
+	}
+		
+	2 = {
+		cost = 200
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.025
+		}
+	}
+	
+	3 = {
+		cost = 400
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.0375
+		}
+	}
+	
+	4 = {
+		cost = 800
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.05
+		}
+	}
+	
+	5 = {
+		cost = 1600
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.0625
+		}
+	}
+
+	6 = {
+		cost = 2560
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.075
+		}
+	}
+
+	7 = {
+		cost = 3584
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.0875
+		}
+	}
+
+	8 = {
+		cost = 5018
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.1
+		}
+	}
+
+	9 = {
+		cost = 6524
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.1125
+		}
+	}
+
+	10 = {
+		cost = 8480
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.125
+		}
+	}
+
+	11 = {
+		cost = 10176
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.15
+		}
+	}
+	
+	12 = {
+		cost = 12210
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.1625
+		}
+	}
+
+	13 = {
+		cost = 14040
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.175
+		}
+	}
+	
+	14 = {
+		cost = 15870
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.1875
+		}
+	}
+	
+	15 = {
+		cost = 17770
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.2
+		}
+	}
+	
+	16 = {
+		cost = 19720
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.2125
+		}
+	}
+	
+	17 = {
+		cost = 21700
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.225
+		}
+	}
+	
+	18 = {
+		cost = 23650
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.2375
+		}
+	}
+	
+	19 = {
+		cost = 25540
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.25
+		}
+	}
+	
+	20 = {
+		cost = 48691
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.2625
+		}
+	}
+	
+	21 = {
+		cost = 28970
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.275
+		}
+	}
+	
+	22 = {
+		cost = 30420
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.2875
+		}
+	}
+	
+	23 = {
+		cost = 31940
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.3
+		}
+	}
+	
+	24 = {
+		cost = 33540
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.3125
+		}
+	}
+	
+	25 = {
+		cost = 36900
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.325
+		}
+	}	
+	26 = {
+		cost = 42400
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.3575
+		}
+	}
+		
+	27 = {
+		cost = 51000
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.393
+		}
+	}
+		
+	28 = {
+		cost = 61100
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.433
+		}
+	}
+		
+	29 = {
+		cost = 73300
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.454
+		}
+	}
+		
+	30 = {
+		cost = 88000
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.466
+		}
+	}
+
+	### Field Marshal ###
+
+	1 = {
+		cost = 100
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.0125
+		}
+	}
+
+	2 = {
+		cost = 200
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.025
+		}
+	}
+
+	3 = {
+		cost = 400
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.0375
+		}
+	}
+
+	4 = {
+		cost = 800
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.05
+		}
+	}
+
+	5 = {
+		cost = 1600
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.0625
+		}
+	}
+
+	6 = {
+		cost = 2560
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.075
+		}
+	}
+
+	7 = {
+		cost = 3584
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.0875
+		}
+	}
+
+	8 = {
+		cost = 5018
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.1
+		}
+	}
+
+	9 = {
+		cost = 6524
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.1125
+		}
+	}
+
+	10 = {
+		cost = 8480
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.125
+		}
+	}
+
+	11 = {
+		cost = 10176
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.15
+		}
+	}
+
+	12 = {
+		cost = 12210
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.1625
+		}
+	}
+
+	13 = {
+		cost = 14040
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.175
+		}
+	}
+
+	14 = {
+		cost = 15870
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.1875
+		}
+	}
+
+	15 = {
+		cost = 17770
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.2
+		}
+	}
+
+	16 = {
+		cost = 19720
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.2125
+		}
+	}
+
+	17 = {
+		cost = 21700
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.225
+		}
+	}
+
+	18 = {
+		cost = 23650
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.2375
+		}
+	}
+
+	19 = {
+		cost = 25540
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.25
+		}
+	}
+
+	20 = {
+		cost = 48691
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.2625
+		}
+	}
+
+	21 = {
+		cost = 28970
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.275
+		}
+	}
+
+	22 = {
+		cost = 30420
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.2875
+		}
+	}
+
+	23 = {
+		cost = 31940
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.3
+		}
+	}
+
+	24 = {
+		cost = 33540
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.3125
+		}
+	}
+
+	25 = {
+		cost = 36900
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.325
+		}
+	}
+	26 = {
+		cost = 42400
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.3575
+		}
+	}
+
+	27 = {
+		cost = 51000
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.393
+		}
+	}
+
+	28 = {
+		cost = 61100
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.433
+		}
+	}
+
+	29 = {
+		cost = 73300
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.454
+		}
+	}
+
+	30 = {
+		cost = 88000
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.466
+		}
+	}
+}
